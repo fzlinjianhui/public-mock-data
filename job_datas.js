@@ -1,5 +1,4 @@
-// 模拟数据
-export const jobList = [
+[
   {
     id: 11,
     title: '算法工程师',
